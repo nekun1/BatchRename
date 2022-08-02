@@ -1,0 +1,15 @@
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\bin\Debug\net6.0\Batch_Rename.exe
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\bin\Debug\net6.0\Batch_Rename.deps.json
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\bin\Debug\net6.0\Batch_Rename.runtimeconfig.json
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\bin\Debug\net6.0\Batch_Rename.dll
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\bin\Debug\net6.0\Batch_Rename.pdb
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.csproj.AssemblyReference.cache
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.dll
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\refint\Batch_Rename.dll
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.pdb
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\Batch_Rename.genruntimeconfig.cache
+C:\Users\Kuba\source\repos\Batch_Rename\Batch_Rename\obj\Debug\net6.0\ref\Batch_Rename.dll
